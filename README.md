@@ -2,7 +2,7 @@
 
 This is a simple starting point for an app with an Express backend, React frontend, Dizzle for the ORM, and a dockerized PostgreSQL database.
 
-I'm working on an example where we will use Auth.js for authentication and simplify some more of the setup, but I felt like this was a nice starting point.
+I'm working on an example where we will use Passport.js for authentication and simplify some more of the setup, but I felt like this was a nice starting point.
 
 ## Development
 
